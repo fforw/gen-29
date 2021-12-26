@@ -1,3 +1,3 @@
-# Simple Starter
+# gen-29
 
-Simple JS build starter for simple, client-only demos.
+Overlay shapes noisily mapped to pretty palettes
